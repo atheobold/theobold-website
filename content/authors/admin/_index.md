@@ -86,6 +86,9 @@ My current research interests are the use of qualitative methods in data science
 education research, outlining a learning trajectory for data science concepts, 
 and the role of student identities in classroom discourse. 
 
+I am a [Carpentries Instructor](https://carpentries.org/instructors/) and a 
+curriculum maintainer for the [`R` Social Science curriculum](https://datacarpentry.org/r-socialsci/)
+
 In my "free" time, you can find me running or riding my moutain bike on the 
 amazing trails around SLO. 
 
