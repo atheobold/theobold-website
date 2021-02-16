@@ -82,4 +82,6 @@ and the role of student identities in classroom discourse.
 
 In my "free" time, you can find me running or riding my mountain bike on the 
 amazing trails around SLO. 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
