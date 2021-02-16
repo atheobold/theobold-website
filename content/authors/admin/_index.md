@@ -14,13 +14,14 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a qualitative researcher interested in the teaching and learning of statistics and data science. My research interests extend into equitable pedagogy and assessment, specifically exploring how student identities manifest in the statistics classroom. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistics education
+- Data science education
+- Equitable pedagogy & assessment 
+- Gender identity
 
 # Education to show in About widget
 education:
