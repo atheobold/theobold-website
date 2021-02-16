@@ -25,15 +25,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Statistics
+    institution: Montana State University
+    year: 2020
+  - course: M.S. in Statistics 
+    institution: Montana State University
+    year: 2016
+  - course: B.S. in Mathematics, concentration Statistics
+    institution: Colorado Mesa University
+    year: 2014
+  - course: B.B.A. in Economics
+    institution: Colorado Mesa University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,7 +67,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "atheobol@calpoly.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -83,5 +86,3 @@ and the role of student identities in classroom discourse.
 In my "free" time, you can find me running or riding my mountain bike on the 
 amazing trails around SLO. 
 
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
