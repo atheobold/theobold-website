@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Allison Theobold
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: California Polytechnic University
+  url: https://statistics.calpoly.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a qualitative researcher interested in the teaching and learning of statistics and data science. My research interests extend into equitable pedagogy and assessment, specifically exploring how student identities manifest in the statistics classroom. 
