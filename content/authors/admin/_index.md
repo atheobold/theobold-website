@@ -81,6 +81,8 @@ My current research interests are the use of qualitative methods in data science
 education research, outlining a learning trajectory for data science concepts, 
 and the role of student identities in classroom discourse. 
 
+I am a soon to be [Certified RStudio Trainer](https://education.rstudio.com/trainers/) and a [Carpentries instructor](https://carpentries.org/instructors/). 
+
 In my "free" time, you can find me running or riding my mountain bike on the 
 amazing trails around SLO. 
 
