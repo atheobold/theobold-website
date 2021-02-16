@@ -89,12 +89,7 @@ email = "athebol@calpoly.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "California Polytechnic University, Building 25 Room 107D",
-city = "San Luis Obispo",
-region = "CA",
-postcode = "93401",
-country = "United States",
-country_code = "US"}
+address = {street = "California Polytechnic University, Building 25 Room 107D", city = "San Luis Obispo", region = "CA", postcode = "93401", country = "United States", country_code = "US"}
 
 
 # Office hours
