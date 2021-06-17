@@ -4,11 +4,7 @@ title: Tools for Integrating Data Science in the Introductory and Intermediate S
 event: CSU Math Council Colloqium -- Fall 2020
 event_url: https://csucdsi.github.io/mc2_2020_programming/February.html
 
-summary: In this presentation we will share tools which we have used to
-integrate data science concepts into Introductory and Intermediate Statistics
-courses. We will discuss tools and activities which scaffold student’s learning
-of programming in R, namely shiny apps, learnr tutorials, RStudio Cloud, and
-downloading R and RStudio locally.
+summary: In this presentation we will share tools which we have used to integrate data science concepts into Introductory and Intermediate Statistics courses. We will discuss tools and activities which scaffold student’s learning of programming in R, namely shiny apps, learnr tutorials, RStudio Cloud, and downloading R and RStudio locally.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
