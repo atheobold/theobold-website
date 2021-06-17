@@ -74,23 +74,12 @@ email: "atheobol@calpoly.edu"
 highlight_name: false
 ---
 
-I am an assistant professor of Statistics at Cal Poly in *beautiful* San Luis 
-Obispo, California. I teach statistics courses at a variety of levels. In my 
-courses students learn statistical concepts alongside data science concepts, so 
-they leave their statistics class with an understanding of how data 
-impact their discipline and their lives.  
+I am an assistant professor of Statistics at Cal Poly in *beautiful* San Luis Obispo, California. I teach statistics courses at a variety of levels. In my courses students learn statistical concepts alongside data science concepts, so they leave their statistics class with an understanding of how data impact their discipline and their lives.  
 
-My current research interests are the use of qualitative methods in data science 
-education research, outlining a learning trajectory for data science concepts, 
-and exploring the role of student identities in classroom discourse. 
+My current research interests are the use of qualitative methods in data science education research, outlining a learning trajectory for data science concepts, and exploring the role of student identities in classroom discourse. 
 
-I am a soon to be [Certified RStudio Trainer](https://education.rstudio.com/trainers/) and a [Carpentries instructor](https://carpentries.org/instructors/). I love to
-spend my time thinking about how we can teach current & future reseachers the
-data science skills necessary to be successful. I am a maintainer for the 
-[Data Analysis and Visualization in R for Social Scientists](https://datacarpentry.org/r-socialsci/) Data Carpentry lesson and am
-actively involved in developing and refining [`learnr` tutorials](https://openintrostat.github.io/ims-tutorials/) to use in the
+I am a soon to be [Certified RStudio Trainer](https://education.rstudio.com/trainers/) and a [Carpentries instructor](https://carpentries.org/instructors/). I love to spend my time thinking about how we can teach current & future reseachers the data science skills necessary to be successful. I am a maintainer for the [Data Analysis and Visualization in R for Social Scientists](https://datacarpentry.org/r-socialsci/) Data Carpentry lesson and am actively involved in developing and refining [`learnr` tutorials](https://openintrostat.github.io/ims-tutorials/) to use in the
 Introductory and Intermediate Statistics classroom. 
 
-In my "free" time, you can find me trail running or riding my mountain bike on
-the amazing trails around SLO. 
+In my "free" time, you can find me trail running or riding my mountain bike on the amazing trails around SLO. 
 
