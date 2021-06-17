@@ -19,7 +19,8 @@ image:
   focal_point: Right
 
 links:
-- url_code: "https://github.com/atheobold/mc-2-r-materials"
+- icon_pack: fab
+url_code: "https://github.com/atheobold/mc-2-r-materials"
 url_pdf: ""
 url_slides: "https://csucdsi.github.io/mc2_2020_programming/slides/tools4R_MC2.pdf"
 url_video: ""
