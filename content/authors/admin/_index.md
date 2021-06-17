@@ -14,10 +14,7 @@ organizations:
   url: https://statistics.calpoly.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a qualitative researcher interested in the teaching and learning of
-statistics and data science. My research interests extend into equitable
-pedagogy and assessment, specifically exploring how student identities manifest
-in the statistics classroom. 
+bio: I am a qualitative researcher interested in the teaching and learning of statistics and data science. My research interests extend into equitable pedagogy and assessment, specifically exploring how student identities manifest in the statistics classroom. 
 
 # Interests to show in About widget
 interests:
