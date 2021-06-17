@@ -9,7 +9,7 @@ summary: In this presentation we will share tools which we have used to integrat
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "Friday, February 19, 2021"
-all_day: false
+all_day: true
 
 # Is this a featured talk? (true/false)
 featured: true
